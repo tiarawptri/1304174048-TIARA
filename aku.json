@@ -1,0 +1,34 @@
+aku.json
+{
+	"home":
+		{
+			"Nama": "Tiara Widyandari Putri",
+			"NIM": 1303174048,
+			"Kelas": IT 41 01 
+		},
+		
+	"about":
+		{
+			"Deskripsi": "Aku adalah salahseorang gadis dari Ayah dan Ibu dengan 1 saudara perempuan dan 1 saudara laki-laki"
+		},
+
+	"hobbies":
+		{ 
+		"Hobbies": ["Bernyanyi", "Dengar musik", "Read a news"]
+		},
+
+	"skills":
+		{
+		"Skills": ["Make up artist", "singing", "traditional dancing"]
+		},
+
+	"education":
+		{
+		"Education": ["TK Ade Irma Suryani Nasution", "SDN 2 Caracas", "SMPN 1 Cilimus", "SMAN 1 Kuningan", "Telkom University smt 5"]
+		},
+	"experience":
+		{
+		"Experience": ["Pernah mengikuti lomba nyanyi", "mengikuti les tari", "bekerja sebagai MUA"]
+		},
+
+}
